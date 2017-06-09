@@ -225,7 +225,7 @@ function CThunWarner_OnUpdate(arg1)
 			unitid = "raid"..i;
 			if(not UnitIsDeadOrGhost(unitid)) then
 				if(not UnitIsUnit(unitid, "player")) then
-					if(CheckInteractDistance(unitid, 3)) then
+					if(CheckInteractDistance(unitid, 2)) then
 						tinsert(CThunWarnerStatus_Players, (UnitName(unitid)));
 					end
 				end
