@@ -13,7 +13,7 @@ Provides information for C'Thun raids.
 Based on `C'Thun Warner 1.06`
 
 # Instalation
-Put `CThunWarner` folders to `World of Warcraft\Interface\AddOns`
+Put `CThunWarner` folder to `World of Warcraft\Interface\AddOns`
 
 # Detailed description
 There is an icon that changes in color:   
